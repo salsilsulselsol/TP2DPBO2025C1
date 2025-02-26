@@ -5,7 +5,7 @@ Tugas Praktikum 2 Dasar Pemrograman Berbasis Objek (DPBO)
 Saya Faisal Nur Qolbi dengan NIM 2311399 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Diagram
-![Diagram_TP2DPBO](https://github.com/user-attachments/assets/088f31bc-b102-4eaa-ac16-d8743a25dc51)
+![Diagram_TP2DPBO](https://github.com/user-attachments/assets/4e9d8595-b4c6-4032-baee-49adce8ac262)
 
 # Desain Program
 Terdiri dari 3 class yaitu **Petshop**, **Aksesoris** dan **Baju**, dimana hirarki dari Child->Parent seperti berikut:
@@ -19,13 +19,14 @@ Didalam class **Petshop** memiliki 4 Atribut, yaitu :
 * Nama Produk
 * Harga Produk
 * Stok Produk
+* Foto Produk (Khusus PHP)
 
-Didalam class **Clothing** memiliki 3 Atribut, yaitu : 
+Didalam class **Aksesoris** memiliki 3 Atribut, yaitu : 
 * Jenis
 * Bahan
 * Warna
 
-Didalam class **Product** memiliki 4 Atribut, yaitu : 
+Didalam class **Baju** memiliki 4 Atribut, yaitu : 
 * Untuk
 * Size
 * Merk
